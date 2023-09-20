@@ -1,1 +1,1 @@
-This is all about the git basics
+This is all about the git basics now
